@@ -16,7 +16,7 @@ These workshops are going to be beginner friendly, so register asap we have limi
 
 # Upcoming Events
 
-### Sep 21, 2021: All About Git & GitHub
+### Sep 22, 2021: All About Git & GitHub
 
 In this session, you will learn about what is Git & GitHub, how it works, and how individuals & teams can use it for collaborative development. You will also get to learn master working with commits, branches, the stash, rebasing, pull requests & more!.
 
